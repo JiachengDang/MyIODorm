@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MyIODorm/static/css/main.c1137f3c.chunk.css",
-    "main.js": "/MyIODorm/static/js/main.c933aa43.chunk.js",
-    "main.js.map": "/MyIODorm/static/js/main.c933aa43.chunk.js.map",
+    "main.css": "/MyIODorm/static/css/main.8974e9d4.chunk.css",
+    "main.js": "/MyIODorm/static/js/main.7d62e66a.chunk.js",
+    "main.js.map": "/MyIODorm/static/js/main.7d62e66a.chunk.js.map",
     "runtime-main.js": "/MyIODorm/static/js/runtime-main.01d8c221.js",
     "runtime-main.js.map": "/MyIODorm/static/js/runtime-main.01d8c221.js.map",
     "static/js/2.7fdf5332.chunk.js": "/MyIODorm/static/js/2.7fdf5332.chunk.js",
     "static/js/2.7fdf5332.chunk.js.map": "/MyIODorm/static/js/2.7fdf5332.chunk.js.map",
     "index.html": "/MyIODorm/index.html",
-    "precache-manifest.4ff0045703fc13c256d1db6c127387b5.js": "/MyIODorm/precache-manifest.4ff0045703fc13c256d1db6c127387b5.js",
+    "precache-manifest.fc85d650b326186033df17f4050aee47.js": "/MyIODorm/precache-manifest.fc85d650b326186033df17f4050aee47.js",
     "service-worker.js": "/MyIODorm/service-worker.js",
-    "static/css/main.c1137f3c.chunk.css.map": "/MyIODorm/static/css/main.c1137f3c.chunk.css.map",
+    "static/css/main.8974e9d4.chunk.css.map": "/MyIODorm/static/css/main.8974e9d4.chunk.css.map",
     "static/js/2.7fdf5332.chunk.js.LICENSE.txt": "/MyIODorm/static/js/2.7fdf5332.chunk.js.LICENSE.txt",
     "static/media/d1.jpg": "/MyIODorm/static/media/d1.d41cc3ad.jpg",
     "static/media/d2.jpg": "/MyIODorm/static/media/d2.5b389d96.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.01d8c221.js",
     "static/js/2.7fdf5332.chunk.js",
-    "static/css/main.c1137f3c.chunk.css",
-    "static/js/main.c933aa43.chunk.js"
+    "static/css/main.8974e9d4.chunk.css",
+    "static/js/main.7d62e66a.chunk.js"
   ]
 }

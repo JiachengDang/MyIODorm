@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a09f5ae139276cbc8fe32b3b1bd99d9e",
+    "revision": "ef6b0bd9aeb1c071a80e8c9d4ef78d32",
     "url": "/MyIODorm/index.html"
   },
   {
-    "revision": "cb8eb79275e31c2ef855",
-    "url": "/MyIODorm/static/css/main.c1137f3c.chunk.css"
+    "revision": "43f5e491de93b8ece856",
+    "url": "/MyIODorm/static/css/main.8974e9d4.chunk.css"
   },
   {
     "revision": "5b2bf0dfa2adb1eda3c3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyIODorm/static/js/2.7fdf5332.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb8eb79275e31c2ef855",
-    "url": "/MyIODorm/static/js/main.c933aa43.chunk.js"
+    "revision": "43f5e491de93b8ece856",
+    "url": "/MyIODorm/static/js/main.7d62e66a.chunk.js"
   },
   {
     "revision": "4d422e3974c7049790f0",
